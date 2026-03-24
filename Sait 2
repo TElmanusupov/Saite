@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bizzier · Why Choose Us</title>
 
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet" />
+</head>
+<body>
+    <div class="page-center">
+        <section class="value-card">
+            <header class="header-block">
+                <span class="badge">Value</span>
+                <h1>Why Choose Bizzier</h1>
+                <p class="description-lead">
+                    We combine expertise, innovation, and measurable impact.
+                </p>
+            </header>
+
+            <div class="value-layout">
+                <div class="value-column value-column-left">
+                    <article class="feature-item">
+                        <div class="feature-icon">
+                            <span class="feature-number">01</span>
+                        </div>
+                        <div class="feature-copy">
+                            <h2 class="feature-title">B2B Specialist</h2>
+                            <p class="feature-text">Deep knowledge of complex B2B buyer journeys.</p>
+                        </div>
+                    </article>
+
+                    <article class="feature-item">
+                        <div class="feature-icon">
+                            <span class="feature-number">02</span>
+                        </div>
+                        <div class="feature-copy">
+                            <h2 class="feature-title">Data-Driven</h2>
+                            <p class="feature-text">Every decision backed by insights and analytics.</p>
+                        </div>
+                    </article>
+                </div>
+
+                <div class="value-illustration">
+                    <div class="illustration-card">
+                         <img src="Group.png" alt="Team working illustration" class="illustration-image" /> 
+                        <div class=""></div>
+                    </div>
+                </div>
+
+                <div class="value-column value-column-right">
+                    <article class="feature-item">
+                        <div class="feature-icon">
+                            <span class="feature-number">03</span>
+                        </div>
+                        <div class="feature-copy">
+                            <h2 class="feature-title">Tailored Solution</h2>
+                            <p class="feature-text">Strategies customized to your industry needs.</p>
+                        </div>
+                    </article>
+
+                    <article class="feature-item">
+                        <div class="feature-icon">
+                            <span class="feature-number">04</span>
+                        </div>
+                        <div class="feature-copy">
+                            <h2 class="feature-title">Proven Results</h2>
+                            <p class="feature-text">A track record of consistent growth and ROI.</p>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
